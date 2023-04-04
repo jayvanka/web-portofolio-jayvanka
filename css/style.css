@@ -324,7 +324,7 @@ html {
   background-position: center;
   position: relative;
   margin-top: 4rem;
-  min-height: 100vh;
+  min-height: 80vh;
   border-top: 4px solid rgb(255, 255, 255);
 }
 .contact h2 {
