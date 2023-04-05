@@ -253,7 +253,7 @@ html {
 .list .row .list-card {
   text-align: center;
   padding-bottom: 5rem;
-  padding-right: 3rem;
+  padding: 2rem;
 }
 .list .row .list-card img {
   border-radius: 20%;
@@ -302,7 +302,7 @@ html {
 .service .row .list-card {
   text-align: center;
   padding-bottom: 5rem;
-  padding-right: 3rem;
+  padding: 2rem;
 }
 .service .row .list-card img {
   border-radius: 20%;
